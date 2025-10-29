@@ -33,7 +33,7 @@ spotify_clone/
 
 ## 📸 Preview
 
-![UI Preview](./img/logo.svg)
+[![UI Preview](./img/logo.svg)](https://spotify-clone-3oxp.vercel.app/)
 
 ## 📌 How to Run
 
